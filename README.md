@@ -5,3 +5,7 @@ Dice are small, throwable objects with marked sides that can rest in multiple po
 # How is a dice numbered!
 
 Dice is markings on each of its faces. ... For the six-sided die, opposite faces are arranged to always sum to seven. This gives two possible mirror image arrangements in which the numbers 1, 2, and 3 may be arranged in a clockwise or counterclockwise order about a corner.
+
+# snapshot
+![dice roller](https://user-images.githubusercontent.com/56904422/82175064-5989d680-98f0-11ea-9101-b2ef370c02b5.jpeg)
+
